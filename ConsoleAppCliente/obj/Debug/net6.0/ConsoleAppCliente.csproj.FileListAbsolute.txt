@@ -1,0 +1,17 @@
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.csproj.AssemblyReference.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.AssemblyInfoInputs.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.AssemblyInfo.cs
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.csproj.CoreCompileInputs.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\bin\Debug\net6.0\ConsoleAppCliente.exe
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\bin\Debug\net6.0\ConsoleAppCliente.deps.json
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\bin\Debug\net6.0\ConsoleAppCliente.runtimeconfig.json
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\bin\Debug\net6.0\ConsoleAppCliente.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\bin\Debug\net6.0\ConsoleAppCliente.pdb
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.csproj.CopyComplete
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\refint\ConsoleAppCliente.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.pdb
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ConsoleAppCliente.genruntimeconfig.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\SistemaClientes\ConsoleAppCliente\obj\Debug\net6.0\ref\ConsoleAppCliente.dll
