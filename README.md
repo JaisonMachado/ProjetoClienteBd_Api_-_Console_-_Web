@@ -17,6 +17,11 @@ Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obt
 
 Se for testar, não esquecer de gerar migration bem como atualizar a propriedade minhaUri com o endereço do localhost e porta!
 
+### ALTERAÇÕES NO PROJETO (20/10/2022)
+
+Após essa primeira etapa, foi decidido que para melhorar o projeto seria mais interessante desenvolver um novo Banco de Dados, com três tabelas: Cliente, Endereço e Contato. 
+Não houve maior investimento no Front End, com tratamento de entrada de dados pelo usuário, sendo essa uma implementação futura.
+
 
 ## Métodos esperados
 
@@ -35,5 +40,7 @@ Se for testar, não esquecer de gerar migration bem como atualizar a propriedade
 |        |  ClienteId              | ClienteId |               |
 | POST   | /Cliente                | ClienteID | N/A           |
 | POST   | /Endereço               | EnderecoID| N/A           |
+
+
 
 
