@@ -1,0 +1,184 @@
+﻿@model WebAppGestor.Models.Detalhe
+
+@{
+    ViewData["Title"] = "Details";
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="with=device-width" />
+        <title> Detalhes do Cliente </title>
+    </head>
+    <body>
+        <table class="table">
+            <thead>
+                <tr>
+                    <!--     CABEÇALHO TABELA CLIENTE -->
+                    <th>
+                        @Html.DisplayNameFor(model => Model.Cliente.ClienteId)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => Model.Cliente.ClienteNome)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => Model.Cliente.Cpf)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => Model.Cliente.ClienteAtivo)
+                    </th>
+
+
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <!--     CORPO TABELA CLIENTE -->
+
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Cliente.ClienteId)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Cliente.ClienteNome)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Cliente.Cpf)
+                    </td>
+
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Cliente.ClienteAtivo)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "EditCliente", new { id=Model.Cliente.ClienteId}) |
+
+                    </td>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+        <br />
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <!--     CABEÇALHO TABELA CONTATO -->
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Contato.ContatoId)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Contato.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Contato.Telefone)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Contato.ContatoAtivo)
+                    </td>
+
+                    <th></th>
+                </tr>
+
+            </thead>
+            <tbody>
+
+                <tr>
+                    <!--     CORPO TABELA CONTATO -->
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Contato.ContatoId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Contato.Email)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Contato.Telefone)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Contato.ContatoAtivo)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "EditContato", new { id=Model.Contato.ContatoId}) |
+                    @Html.ActionLink("Remover", "DeleteContato", new { id=Model.Contato.ContatoId}) 
+
+                    </td>
+                    <th></th>
+                </tr>
+
+            </tbody>
+
+        </table>
+        <br />
+        <table class="table">
+            <thead>
+                <tr>
+                    <!--     CABEÇALHO TABELA ENDEREÇO -->
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Endereco.EnderecoId)
+                    </td>
+
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Endereco.Cidade)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Endereco.Bairro)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Endereco.Logradouro)
+                    </td>
+                    <td>
+                        @Html.DisplayNameFor(modelItem => Model.Endereco.EnderecoAtivo)
+                    </td>
+
+                    <th></th>
+                </tr>
+
+            </thead>
+            <tbody>
+                <!--     CORPO TABELA ENDEREÇO -->
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Endereco.EnderecoId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Endereco.Cidade)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Endereco.Bairro)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Endereco.Logradouro)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.Endereco.EnderecoAtivo)
+                    </td>
+
+                    <td>
+                        @Html.ActionLink("Edit", "EditEndereco", new { id=Model.Endereco.EnderecoId}) |
+                    @Html.ActionLink("Remover", "DeleteEndereco", new { id=Model.Endereco.EnderecoId}) |
+                    </td>
+                    <th></th>
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </body>
+    <br />
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
+
+</html>

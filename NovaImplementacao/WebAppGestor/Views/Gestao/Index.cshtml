@@ -1,0 +1,50 @@
+﻿@model IEnumerable<WebAppGestor.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="CreateCliente">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ClienteId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClienteNome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cpf)
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClienteId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClienteNome)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Edit", "EditCliente", new { id=item.ClienteId}) |
+                @Html.ActionLink("Add Contato", "CreateContato", new {id=item.ClienteId}) |
+                @Html.ActionLink("Add Endereço", "CreateEndereco", new {id=item.ClienteId}) |
+                @Html.ActionLink("Details", "Details", new { id=item.ClienteId }) |
+                @Html.ActionLink("Delete", "DeleteCliente", new { id=item.ClienteId})  
+                
+
+</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,17 @@
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.csproj.AssemblyReference.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.AssemblyInfoInputs.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.AssemblyInfo.cs
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.csproj.CoreCompileInputs.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\bin\Debug\net6.0\ConsoleAppGestor.exe
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\bin\Debug\net6.0\ConsoleAppGestor.deps.json
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\bin\Debug\net6.0\ConsoleAppGestor.runtimeconfig.json
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\bin\Debug\net6.0\ConsoleAppGestor.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\bin\Debug\net6.0\ConsoleAppGestor.pdb
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.csproj.CopyComplete
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\refint\ConsoleAppGestor.dll
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.pdb
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ConsoleAppGestor.genruntimeconfig.cache
+C:\Users\Jaissinho\OneDrive\Documentos\JAISON\ProjetosDeAplicacaoDosConhecimentos\NovaApi\WebApi\ConsoleAppGestor\obj\Debug\net6.0\ref\ConsoleAppGestor.dll
