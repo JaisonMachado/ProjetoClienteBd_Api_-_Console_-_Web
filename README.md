@@ -1,5 +1,7 @@
 # Projeto Banco de Dados Cliente
 
+# Nova implementação adicionada em 20/10/22 - pasta NovaImplementacao
+
 O presente projeto foi idealizado para exercitar, testar e aprimorar o aprendizado em C# dotNet, Web Api, e Web
 Data do início: 01/10/2022
 
