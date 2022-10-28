@@ -1,6 +1,6 @@
 # Projeto Banco de Dados Cliente
 
-#Nova implemntacao com melhorias e aplicação do Padrão Repository e injeção de Dependência
+# Nova implemntacao com melhorias e aplicação do Padrão Repository e injeção de Dependência - adicionado em 28/10/22
 
 # Nova implementação adicionada em 20/10/22 - pasta NovaImplementacao
 
